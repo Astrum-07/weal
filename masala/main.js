@@ -1,16 +1,15 @@
+// 1-misol
 // function tub(n, m) {
-//   let result = 0;
-//   for (let i = n; i <= m; i++) {
-//     if (n % i == 0) {
-//         result++;
-//     }
-//     if(result<=2){
-//         console.log(result)
-//     }
-//   }
 
+//   for (let i = n; i <= m; i++) {
+//     if (i % 2 == 0) {
+//      console.log(i);
+//     }
+    
+//   }
 // }
-// tub(2,10)
+// tub(2, 10);
+
 
 // 4-misol
 // let arr = [6, -32, 87, -12, -76, 32, 866, -111];
